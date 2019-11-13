@@ -14,3 +14,4 @@ else :
     print('ni de tizhong -!','%.2f' % bmi)
     
 #ceshi tongbu!
+#ceshi2 zaitongbu

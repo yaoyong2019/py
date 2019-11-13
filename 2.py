@@ -12,3 +12,5 @@ elif bmi > 18.5 :
     print('ni de tizhong Yes!','%.2f' % bmi)
 else :
     print('ni de tizhong -!','%.2f' % bmi)
+    
+#ceshi tongbu!

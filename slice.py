@@ -9,7 +9,7 @@ print(p[:10:2])
 print(p[::5])
 t=tuple(p)
 print(t[:10])
-print('abcdefg'[0:3:2])
+print('abcdefg'[0:3:2])#切片
 def trim(s):
     print(len(s))
     n=len(s)

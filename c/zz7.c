@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*指针变量作函数参数*/
 int max(int *intarr,int len){
     int i, maxv = intarr[0];
     for(i=1;i<len;i++){
@@ -7,7 +7,7 @@ int max(int *intarr,int len){
             maxv=intarr[i];}
     }
     return maxv;
-    
+
 }
 int main(){
     
